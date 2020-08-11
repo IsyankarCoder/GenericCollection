@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using GenericCollectionList;
 using GlobalCollection;
+using System.Linq;
 
 namespace GenericCollection
 {
@@ -26,12 +27,30 @@ namespace GenericCollection
             foreach(Employee e in emplist){
                 Console.WriteLine(e.Name + Environment.NewLine);
             }
+
+            Console.ReadLine();
+            
+            //indexer
+            Console.WriteLine(gc[0].Name);
+
  
+            
+                     
             Console.ReadLine();
 
+            var name = gc.FilterList(gc,FilterById,"5").First().Name;
+            Console.WriteLine(name);
 
+            Console.ReadLine();
+            
 
-
+            
         }
+
+
+        static bool FilterById(Employee employee, string filterParams){
+            return employee.Id.ToString()==filterParams;
+        }
+
     }
 }
