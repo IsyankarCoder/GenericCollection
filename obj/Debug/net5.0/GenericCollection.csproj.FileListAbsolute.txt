@@ -1,0 +1,13 @@
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.exe
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.deps.json
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.runtimeconfig.json
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.runtimeconfig.dev.json
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.dll
+C:\VsCodeProjects\GenericCollection\bin\Debug\net5.0\GenericCollection.pdb
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.csprojAssemblyReference.cache
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.AssemblyInfoInputs.cache
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.AssemblyInfo.cs
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.csproj.CoreCompileInputs.cache
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.dll
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.pdb
+C:\VsCodeProjects\GenericCollection\obj\Debug\net5.0\GenericCollection.genruntimeconfig.cache
